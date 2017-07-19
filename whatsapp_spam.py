@@ -76,6 +76,7 @@ entry3= Entry(root)
 label3.grid(row=3,column=0 ,padx=10, pady=(5,5))
 entry3.grid(row=3,column=2 ,padx=10, pady=(5,5))
 
-button = Button(root, text="SEND", bg = "green", fg="black", command=send)
+button = Button(root, text="SEND", command=send)
 button.place(x=150,y=90)
 root.mainloop()
+
