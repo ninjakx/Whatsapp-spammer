@@ -1,2 +1,2 @@
 # Whatsapp-spammer-
-A Whatsapp spam bot that can send countless msg to your whatsapp contact
+A Whatsapp Spam Bot that can send countless msg to your whatsapp contact.
